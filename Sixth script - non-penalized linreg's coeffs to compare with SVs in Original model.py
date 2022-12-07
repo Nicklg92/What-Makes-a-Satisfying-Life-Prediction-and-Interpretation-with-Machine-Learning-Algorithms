@@ -25,9 +25,9 @@ train-test split 1. The coefficients are computed on the training-set
 insample regression. No testing is required here.
 '''
 
-path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_Test_splits'  
+path = 'C:\\some_local_path'  
 
-dest_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS'
+dest_path = 'C:\\some_others_local_path'
 
 #We create a function to fot a linear regression only in the training set
 #and extract the coefficients.
