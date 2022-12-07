@@ -20,7 +20,7 @@ options(scipen=999)
 
 rm(list = ls())
 
-path <- "C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits\\"
+path <- "C:\\some_local_path\\"
 
 #########################
 ###IMPORTING THE FILES###
