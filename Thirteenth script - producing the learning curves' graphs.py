@@ -18,7 +18,7 @@ Here, we simply wrap-up all the data on the Learning Curves produced in the
 previous four scripts and create the plots.    
 '''
 
-import_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\'
+import_path = 'C:\\some_local_path\\'
 
 #As can be seen in the four scripts, for the Non-Penalized Linear and Ridge
 #Regressions then Test MSEs were automatically saved in csv files. 
