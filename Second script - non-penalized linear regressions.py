@@ -41,9 +41,9 @@ def linreg_train_test(X_train, y_train, X_test, y_test):
     
     return list_of_results
 
-path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_Test_splits'  
+path = 'C:\\some_local_path'  
 
-results_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS'
+results_path = 'C:\\some_other_local_path'
 
 #Each of the training and test sets is imported as a 
 #pandas dataframe into a list. In this way, it will be easier
