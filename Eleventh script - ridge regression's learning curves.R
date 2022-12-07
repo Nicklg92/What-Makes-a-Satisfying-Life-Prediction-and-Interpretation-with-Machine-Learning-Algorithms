@@ -22,7 +22,7 @@ options(scipen=999)
 #Learning Curves on the Non-Penalized Linear Regression
 #in the Original model.
 
-import_path <- "C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits\\"
+import_path <- "C:\\some_local_path\\"
 
 train_1 <- read.csv(paste0(import_path, "train_1.csv"))
 
@@ -92,4 +92,4 @@ MSEs_and_sizes <- data.frame(unlist(MSEs_test_ridge), unlist(train_size_list))
 
 names(MSEs_and_sizes) <- c("Test MSEs", "Train size (%)")
 
-write.csv(MSEs_and_sizes, file = "C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Ridge_extd_learning_curve.csv")
+write.csv(MSEs_and_sizes, file = "C:\\some_other_local_path\\Ridge_extd_learning_curve.csv")
