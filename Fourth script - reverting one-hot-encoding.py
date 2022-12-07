@@ -20,9 +20,9 @@ For this reason, we need to revert the one-hot-encoding procedure done in the
 first script before creating the 100 train-test splits.
 '''
 
-path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_Test_splits'
+path = 'C:\\some_local_path'
 
-dest_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_Test_splits_noohed'
+dest_path = 'C:\\some_local_path_noohed'
 
 #Importing training sets
 
