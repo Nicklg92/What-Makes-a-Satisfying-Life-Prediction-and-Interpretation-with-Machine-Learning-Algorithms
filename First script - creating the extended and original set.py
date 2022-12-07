@@ -36,7 +36,7 @@ If you have more experience, you can skip the parts explaining
 the codes.
 '''
 
-import_path = "C:\\Users\\niccolo.gentile\\Desktop\\BCS\\"
+import_path = "C:\\my_local_path\\"
 
 followup = pd.read_csv(import_path + "bcs_2004_followup.tab", sep = "\t")
 
@@ -652,7 +652,7 @@ for j in numvars:
     
     X[j] = round(X[j])
     
-dest_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits'  
+dest_path = 'C:\\another_local_path'  
 
 np.random.seed(42)
 
