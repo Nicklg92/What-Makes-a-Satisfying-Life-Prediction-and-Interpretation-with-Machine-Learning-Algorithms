@@ -1,4 +1,4 @@
-# What-Makes-a-Satisfying-Life-Prediction-and-Interpretation-with-Machine-Learning-Algorithms
+# What Makes a Satisfying Life? Prediction and Interpretation with Machine-Learning Algorithms
 
 In the repository, there are all the scripts that I have written to get the results in the paper "What Makes a Satisfying Life? Prediction and Interpretation with Machine Learning Algorithms",
 the first chapter of my doctoral thesis.
