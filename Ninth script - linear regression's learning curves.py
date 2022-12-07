@@ -43,9 +43,9 @@ def linreg_train_test(X_train, y_train, X_test, y_test,
     
     return list_of_results
 
-path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits\\'
+path = 'C:\\some_local_path\\'
 
-dest_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\'
+dest_path = 'C:\\some_other_local_path\\'
 
 #It is necessary to just import one train - test split, since we will bind
 #them back together to obtain the full dataset and on that compute everytime
