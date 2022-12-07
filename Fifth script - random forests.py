@@ -81,9 +81,9 @@ def RandomForest(X_train, y_train, if_bootstrap,
     return list_of_results
 
 
-path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits_noohed\\'
+path = 'C:\\some_local_path_noohed\\'
 
-dest_path = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\'
+dest_path = 'C:\\some_local_path\\'
 
 #Importing training sets
 
