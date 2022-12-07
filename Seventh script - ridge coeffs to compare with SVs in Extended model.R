@@ -35,7 +35,7 @@ set.seed(42)
 #of the derived coefficient (equations 15 and 16) in 
 #the paper.
 
-import_path <- "C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits\\"
+import_path <- "C:\\some_local_path\\"
 
 train_1 <- read.csv(paste0(import_path, "train_1.csv"))
 
@@ -67,5 +67,5 @@ MSE_train_ridge_joined <- colMeans((y_train_1 - fitted_training_ridge_joined)^(2
 
 ridge_coeffs <- as.matrix(coef(cvfit_ridge_joined, s = "lambda.min"))
 
-write.csv(ridge_coeffs, file ="C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_1_joined_ridge_coeffs_all.csv", row.names = TRUE)
+write.csv(ridge_coeffs, file ="C:\\some_other_local_path\\Train_1_joined_ridge_coeffs_all.csv", row.names = TRUE)
 
