@@ -1,7 +1,6 @@
 # What Makes a Satisfying Life? Prediction and Interpretation with Machine-Learning Algorithms
 
-In the repository, there are all the scripts that I have written to get the results in the paper "What Makes a Satisfying Life? Prediction and Interpretation with Machine Learning Algorithms",
-the first chapter of my doctoral thesis.
+In the repository, there are all the scripts that I have written to get the results in the paper "What Makes a Satisfying Life? Prediction and Interpretation with Machine Learning Algorithms", the first chapter of my doctoral thesis. The scripts are written in Python and R.
 
 The paper was then written in collaboration with Andrew Clark, Conchita D'Ambrosio and Alexandre Tkatchenko.
 
