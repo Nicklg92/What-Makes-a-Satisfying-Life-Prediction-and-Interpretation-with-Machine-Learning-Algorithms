@@ -34,9 +34,9 @@ in particular regarding Equations 15 and 16.
 Everything is done only on Train - Test Split 1.
 ''' 
 
-import_path_dset = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\Train_test_splits\\'
+import_path_dset = 'C:\\some_local_path\\'
 
-import_and_dest_path_coeffs = 'C:\\Users\\niccolo.gentile\\Desktop\\BCS\\'
+import_and_dest_path_coeffs = 'C:\\some_other_local_path\\'
 
 train_1 = pd.read_csv(import_path_dset + 'train_1.csv')
 
