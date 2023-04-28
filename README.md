@@ -11,3 +11,5 @@ to then reproduce.
 All the scripts have, in their name, the order in which they need to be run.
 
 In order to obtain the results, it is necessary to have access to the British Cohort Study data. 
+
+Since the paper is currently under review at academic journals, it is not published here.
