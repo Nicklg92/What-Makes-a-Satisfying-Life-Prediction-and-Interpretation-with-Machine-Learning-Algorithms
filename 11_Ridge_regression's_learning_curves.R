@@ -1,5 +1,5 @@
 ########################################################
-##ELEVENTH SCRIPT _ RIDGE REGRESSION'S LEARNING CURVES##
+##ELEVENTH SCRIPT - RIDGE REGRESSION'S LEARNING CURVES##
 ########################################################
 
 library(glmnet)
