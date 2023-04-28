@@ -6,9 +6,7 @@ The paper was then written in collaboration with Andrew Clark, Conchita D'Ambros
 
 All the scripts are rich in comments, which you can gloss over if you already have expertise in programming with R and Python. The reason for this choice is 
 that people working in wellbeing often come from disciplines in which the mainstreams are STATA, SPSS or SAS. Hence, I hope in this manner the results are easier 
-to then reproduce.
-
-All the scripts have, in their name, the order in which they need to be run.
+to then reproduce. All the scripts have, in their name, the order in which they need to be run.
 
 In order to obtain the results, it is necessary to have access to the British Cohort Study data. 
 
